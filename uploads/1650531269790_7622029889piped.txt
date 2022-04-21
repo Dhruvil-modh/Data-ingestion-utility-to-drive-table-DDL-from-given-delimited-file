@@ -1,0 +1,6 @@
+Sepal 	length	Sepal 	width	Petal length
+51	35	14	02	setosa
+49	30	14	02	setosa
+47	32	13	02	setosa
+46	31	15	02	setosa
+50	36	14	02	setosa
